@@ -1,0 +1,10 @@
+#PERKENALAN DIRI
+print("Nama : Aryo Kusumo Priambodo")
+print("NIM  : 2605060059")
+print(" ")
+print("TTL  : Kota Magelang, 23 Oktober 2007")
+print("JK   : Laki-laki")
+print("Hobi : Suka mendengarkan musik. Terkadang, saya suka membaca buku kalo ada waktu(kalo minat)")
+print(" ")
+print(" ")
+print("Sekian, MaturNuwun:)")
